@@ -8,8 +8,10 @@
 __pycache__/
 local_settings.py
 db.sqlite3
-media
-vnev
+/media
+venv
+we dont want to push this to our repository
+/static
 
 
 
